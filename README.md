@@ -1,5 +1,5 @@
-# FCN-CRNN-Segmentation
-Combining FCN (U-net, DeepEM-net) with CRNN(convolution LSTM and GRU, deconvolution one) for EM image segmentation
+# Recrrent
+The implementation of Recurrent encoder-decoder networks , which integrated FCN (U-net, DeepEM-net) and CRNN(convolution LSTM and GRU, deconvolution one) for time-varing dense prediction
 # Required library
 Keras, Theano
 # Code
