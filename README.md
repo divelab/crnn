@@ -5,4 +5,4 @@ Keras, Theano
 # Code
 Run train_predict.py for training or prediction. To predict/train a specific model, you need change modename accordingly.
 # Node:
-To use convolutional GRU and Deconvolutional LSTM/GRU layers, copy extra_conv_recurrent.py to Keras's layer folder and run " python setup.py install" to install Keras again.
+To use convolutional GRU and Deconvolutional LSTM/GRU layers, copy $extra_conv_recurrent.py$ to Keras's layer folder and run " python setup.py install" to install Keras again.
