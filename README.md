@@ -12,5 +12,5 @@ Run **train_predict.py** for training or prediction. To predict/train a specific
 # Note:
 To use convolutional GRU and Deconvolutional LSTM/GRU layers, copy **extra_conv_recurrent.py** to Keras's layer folder and run " python setup.py install" to install Keras again.
 # Code reference:
-Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](http://arxiv.org/pdf/1506.04214v1.pdf)
+Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting  (http://arxiv.org/pdf/1506.04214v1.pdf)
 https://github.com/fchollet/keras/blob/master/keras/layers/convolutional_recurrent.py
