@@ -3,11 +3,11 @@ Implementation for submitted paper of KDD 2017 : **" Recurrent encoder-decoder n
 # Required librari
 Keras, Theano
 # Data
-1. register first at:
+(1). register first at:
 http://brainiac2.mit.edu/SNEMI3D/user/register
-2. login and download data at:
+(2). login and download data at:
 http://brainiac2.mit.edu/SNEMI3D/downloads
 # Code
 Run **train_predict.py** for training or prediction. To predict/train a specific model, you need change mode name acco
-# Node:
+# Note:
 To use convolutional GRU and Deconvolutional LSTM/GRU layers, copy **extra_conv_recurrent.py** to Keras's layer folder and run " python setup.py install" to install Keras again.
