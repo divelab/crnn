@@ -3,11 +3,13 @@ Implementation for submitted paper of KDD 2017 : **" Recurrent encoder-decoder n
 # Required libraries
 Keras, Theano
 # Data
-(1). register first at:
+(1). Register first at:
 http://brainiac2.mit.edu/SNEMI3D/user/register
 
-(2). login in and download data at:
+(2). Login in and download data at:
 http://brainiac2.mit.edu/SNEMI3D/downloads
+
+(3) Convert image files into h5 file that contains \data and \label sets.  
 # Code
 Run **train_predict.py** for training or prediction. To predict/train a specific model, you need change mode name acco
 # Note:
