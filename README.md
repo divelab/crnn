@@ -1,5 +1,5 @@
 # Recurrent encoder-decoder networks for time-varying dense prediction
-Implementation for submitted paper of KDD 2017 : **" Recurrent encoder-decoder networks for time-varying dense prediction"**, which combined FCN (U-net, DeepEM-net) and CRNN(convolution LSTM and GRU, deconvolution one) as an integrated networks for en-to-end training.
+Implementation for submitted paper of KDD 2017 : **" Recurrent encoder-decoder networks for time-varying dense prediction"**, which combined FCN (U-net, DeepEM-net(DenseNet)) and CRNN(convolution LSTM and GRU, deconvolution one) as an integrated networks for en-to-end training.
 # Required libraries
 Keras, Theano
 # Data
